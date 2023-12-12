@@ -5,7 +5,7 @@ on:
         - 'v1.0'
         tags: 
         - 'latest'
-jobs
+jobs:
   ci:
     runs-on: ubuntu-latest
     permissions:
